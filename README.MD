@@ -1,6 +1,8 @@
 # google-cloud-storage-clj
 
-Clojure project meant to do...
+Clojure project that wraps google cloud storage useful documentation:
+https://github.com/GoogleCloudPlatform/google-cloud-java/blob/master/google-cloud-storage/src/main/java/com/google/cloud/storage/StorageImpl.java
+https://cloud.google.com/storage/docs/reference/libraries
 
 # Usage
 
